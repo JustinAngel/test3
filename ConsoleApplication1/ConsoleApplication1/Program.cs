@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("typed from web 1")
+            Console.WriteLine("typed from web 1");
+            Console.WriteLine("typed from VS2012 1");
         }
     }
 }
