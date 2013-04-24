@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("typed from web 1");
             Console.WriteLine("typed from VS2012 1");
+            
+            Console.WriteLine("merge conflict web 2")
         }
     }
 }
